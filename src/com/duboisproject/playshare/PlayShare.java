@@ -1,6 +1,6 @@
 package com.duboisproject.playshare;
 
-import org.kandp.playshare.R;
+import com.duboisproject.playshare.R;
 
 import android.app.Activity;
 import android.os.Bundle;
